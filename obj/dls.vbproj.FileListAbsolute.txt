@@ -1,0 +1,73 @@
+E:\vijay.project\KOUSHIK\Employee Training System\bin\Debug\dls.exe.config
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.exe
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.xml
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.pdb
+E:\vijay.project\KOUSHIK\Employee Training System\bin\Debug\dls.exe
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\ResolveAssemblyReference.cache
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.Course.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.Course_View.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.cpwd.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.empoptions.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.Emp_Regn.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.Etraining.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.Form1.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.Form2.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.Form3.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.Form9.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.Resources.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.QPaper.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.SplashScreen1.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.training.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.viresult.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.vresults.resources
+E:\vijay.project\KOUSHIK\Employee Training System\obj\Debug\dls.vbproj.GenerateResource.Cache
+C:\Documents and Settings\raghu\Desktop\Employee Training System\bin\Debug\dls.exe.config
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.exe
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.xml
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.pdb
+C:\Documents and Settings\raghu\Desktop\Employee Training System\bin\Debug\dls.exe
+C:\Documents and Settings\raghu\Desktop\Employee Training System\bin\Debug\dls.pdb
+C:\Documents and Settings\raghu\Desktop\Employee Training System\bin\Debug\dls.xml
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.Course.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.Course_View.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.cpwd.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.empoptions.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.Emp_Regn.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.Etraining.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.Form1.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.Form2.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.Form3.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.Form9.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.Resources.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.QPaper.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.SplashScreen1.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.training.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.viresult.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.vresults.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training System\obj\Debug\dls.vbproj.GenerateResource.Cache
+C:\Documents and Settings\raghu\Desktop\Employee Training\bin\Debug\dls.exe.config
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.exe
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.xml
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.pdb
+C:\Documents and Settings\raghu\Desktop\Employee Training\bin\Debug\dls.exe
+C:\Documents and Settings\raghu\Desktop\Employee Training\bin\Debug\dls.pdb
+C:\Documents and Settings\raghu\Desktop\Employee Training\bin\Debug\dls.xml
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.Course.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.Course_View.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.cpwd.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.empoptions.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.Emp_Regn.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.Etraining.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.Form1.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.Form2.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.Form3.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.Form9.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.Resources.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.QPaper.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.SplashScreen1.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.training.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.viresult.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.vresults.resources
+C:\Documents and Settings\raghu\Desktop\Employee Training\obj\Debug\dls.vbproj.GenerateResource.Cache

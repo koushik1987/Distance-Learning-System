@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2184687B-D4DD-4325-BCE0-D3C33FF57996}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>dls.My.MyApplication</StartupObject>
+    <RootNamespace>dls</RootNamespace>
+    <AssemblyName>dls</AssemblyName>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>dls.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>dls.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Course.Designer.vb">
+      <DependentUpon>Course.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Course.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Course_View.designer.vb">
+      <DependentUpon>Course_View.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Course_View.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cpwd.Designer.vb">
+      <DependentUpon>cpwd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cpwd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="empoptions.Designer.vb">
+      <DependentUpon>empoptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="empoptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emp_Regn.Designer.vb">
+      <DependentUpon>Emp_Regn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_Regn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Etraining.Designer.vb">
+      <DependentUpon>Etraining.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Etraining.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.designer.vb">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="QPaper.designer.vb">
+      <DependentUpon>QPaper.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QPaper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SADataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SADataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="training.Designer.vb">
+      <DependentUpon>training.vb</DependentUpon>
+    </Compile>
+    <Compile Include="training.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="viresult.Designer.vb">
+      <DependentUpon>viresult.vb</DependentUpon>
+    </Compile>
+    <Compile Include="viresult.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vresults.Designer.vb">
+      <DependentUpon>vresults.vb</DependentUpon>
+    </Compile>
+    <Compile Include="vresults.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Course.resx">
+      <DependentUpon>Course.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Course_View.resx">
+      <DependentUpon>Course_View.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cpwd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>cpwd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="empoptions.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>empoptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emp_Regn.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Emp_Regn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Etraining.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Etraining.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QPaper.resx">
+      <DependentUpon>QPaper.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="training.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>training.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="viresult.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>viresult.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vresults.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>vresults.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="SADataSet.xsc">
+      <DependentUpon>SADataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SADataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SADataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SADataSet.xss">
+      <DependentUpon>SADataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ASD.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ASD.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
